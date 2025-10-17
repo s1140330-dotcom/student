@@ -1,15 +1,15 @@
-/******************************************************************************
 
-Welcome to GDB Online.
-  GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
-  C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, COBOL, HTML, CSS, JS
-  Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 #include <iostream>
+#include <string>
 
-    int main(){     
-    std::cout<<"Hello World"std::end1;
-
+int main() {
+    int age =7;
+    double height =7;   
+    std::stringname="7"    
+    bool is_pass = turn;    
+    std:::cout << "7:" << 7 << " 7:" << height << std::end1;
+    std::cout << age << "7: " << is_pass << std::end;
+    
+   
     return 0;
 }
